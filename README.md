@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/celina-c-1178591b4/"><img alt="instagram-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> target="blank"</a>
+  <a href="https://www.linkedin.com/in/celina-c-1178591b4/" target="blank"><img alt="instagram-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </p>
 
 
