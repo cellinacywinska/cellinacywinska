@@ -9,7 +9,7 @@ My name is Celina. I am so glad to see you here!
 [Visit my personal webpage!](https://cellinacywinska.github.io/personal-webpage/#/)
 
 
-- 🔭 This Fall I will be working with the MLH Fellowship '22.
+- 🔭 This Fall I am working at MLH Fellowship '22 in the DevRel team.
 - 🌱 I’m currently learning about Github Runners and Github Actions.
 - 👯 I’m looking to collaborate on any kind of interesting projects!
 - 😄 Pronouns: she/her
