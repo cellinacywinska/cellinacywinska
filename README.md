@@ -8,8 +8,6 @@ My name is Celina. I am so glad to see you here!
 
 [Visit my personal webpage!](https://cellinacywinska.github.io/personal-webpage/#/)
 
-
-- 🔭 This Fall I was working with G-Research DevRel team on an open-source project Siembol.
 - 👩‍💻 I am a two time graduate from the Major League Hacking Fellowship.
 - 🌱 I’m currently learning about technical writing and documentation.
 - 👯 I’m looking to collaborate on any kind of interesting projects!
